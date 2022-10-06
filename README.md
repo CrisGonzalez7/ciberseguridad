@@ -40,7 +40,7 @@ Las cosas que he aprendido a lo largo del curso son:
 - Análisis dinámico 
 - Herramientas para el análisis dinámico
 
-*Ver trabajo realizado para el módulo "Análisis de Malware" en el Curso de Ciberseguridad de Coderhouse:* <a href="https://docs.google.com/document/d/1AF_QFnN3eQiC684GoaWFHITAO7zUF4soLKT92FuTzrQ/edit?usp=sharing">*Análisis de Malware - Verónica González</a>
+*Ver trabajo realizado para el módulo "Análisis de Malware" en el Curso de Ciberseguridad de Coderhouse:* <a href="https://docs.google.com/document/d/1AF_QFnN3eQiC684GoaWFHITAO7zUF4soLKT92FuTzrQ/edit?usp=sharing">*Análisis de Malware - Verónica González*</a>
 
 
 
